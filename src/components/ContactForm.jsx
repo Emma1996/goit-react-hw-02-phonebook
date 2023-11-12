@@ -15,6 +15,7 @@ export const ContactForm = ({
         flexDirection: 'column',
         fontSize: 30,
         color: '#010101',
+        padding: 10,
       }}
     >
       <form onSubmit={onSubmit}>
